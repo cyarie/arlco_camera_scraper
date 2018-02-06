@@ -1,0 +1,6 @@
+# Ignore media output
+*.flv
+*.jpg
+.idea/
+ped_env/
+keys.env
