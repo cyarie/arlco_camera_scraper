@@ -3,7 +3,7 @@ cffi==1.11.2
 chardet==3.0.4
 idna==2.6
 numpy==1.13.3
-opencv-python==3.3.0.10
+opencv-python==3.4.0.12
 pycparser==2.18
 python-librtmp==0.3.0
 requests==2.18.4
