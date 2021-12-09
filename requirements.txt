@@ -6,5 +6,5 @@ numpy==1.13.3
 opencv-python==4.2.0.32
 pycparser==2.18
 python-librtmp==0.3.0
-requests==2.18.4
+requests==2.20.0
 urllib3==1.26.5
